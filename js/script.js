@@ -1,6 +1,6 @@
 const shoppingList = [
     "Latte",
-    "Lova",
+    "Uova",
     "Farina",
     "Cacao",
     "Mele",
